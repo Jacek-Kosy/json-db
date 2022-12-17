@@ -1,4 +1,21 @@
 {
+  "menu-items": [
+    {
+        "id": 1,
+        "name": "Kotlet Schabowy",
+        "price": 32.99
+    },
+    {
+        "id": 2,
+        "name": "Kotlet Mielony",
+        "price": 26.99
+    },
+    {
+        "id": 3,
+        "name": "Placek po Cygańsku",
+        "price": 39.99
+    }
+],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
