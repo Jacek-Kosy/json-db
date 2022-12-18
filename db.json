@@ -18,7 +18,7 @@
 ],
   "orders": [
     { "id": 1, "name": "Myszka Miki", "address": "Kwiatowa 3, Poznań", "total": 105.99, "datetime": "2022-12-18 12:39" },
-    { "id": 2, "name": "Zbigniew Ziobro", "address": "Al. Ujazdowskie 11, Warszawa", "total": 00.00, "datetime": "2022-12-17 17:27" },
+    { "id": 2, "name": "Zbigniew Ziobro", "address": "Al. Ujazdowskie 11, Warszawa", "total": 0, "datetime": "2022-12-17 17:27" },
     { "id": 3, "name": "Ambroży Kleks", "address": "Czekoladowa 10, ???", "total": 123.49, "datetime": "2022-12-16 14:42" }
   ],
   "comments": [
