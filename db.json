@@ -16,10 +16,10 @@
         "price": 39.99
     }
 ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "orders": [
+    { "id": 1, "name": "Myszka Miki", "address": "Kwiatowa 3, Poznań", "total": 105.99, "datetime": "2022-12-18 12:39" },
+    { "id": 2, "name": "Zbigniew Ziobro", "address": "Al. Ujazdowskie 11, Warszawa", "total": 00.00, "datetime": "2022-12-17 17:27" },
+    { "id": 3, "name": "Ambroży Kleks", "address": "Czekoladowa 10, ???", "total": 123.49, "datetime": "2022-12-16 14:42" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
